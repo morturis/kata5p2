@@ -8,7 +8,7 @@ import view.HistogramDisplay;
 import view.MailHistogramBuilder;
 import view.MailListReader;
 
-public class Kata4 {
+public class Kata5p2 {
 
     public static void main(String[] args) throws FileNotFoundException, IOException {
         String fileName = "C:\\Users\\usuario\\Documents\\NetBeansProjects\\Kata4\\emails.txt";
